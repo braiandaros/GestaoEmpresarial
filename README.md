@@ -1,4 +1,4 @@
-# INFORMAÇÂO IMPORTANTE 
+# Informação inportante
 
 Este projeto é uma nova versão do repositório "ProjetoFinalizacao-SENAI", criado devido a diversas atualizações e dificuldades enfrentadas ao salvar o projeto anterior. As principais mudanças incluem:
 - Implementação de uma interface em resolução full HD (1920x1080).
