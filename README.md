@@ -1,3 +1,23 @@
+# INFORMAÇÂO IMPORTANTE 
+
+Este projeto é uma nova versão do repositório "ProjetoFinalizacao-SENAI", criado devido a diversas atualizações e dificuldades enfrentadas ao salvar o projeto anterior. As principais mudanças incluem:
+- Implementação de uma interface em resolução full HD (1920x1080).
+- Centralização e reorganização do layout de todas as telas e componentes.
+- Maior realismo e coerência no preenchimento dos campos, aproximando-os de cenários reais.
+- Inclusão de mensagens de erro e dicas para auxiliar o usuário a resolver problemas de preenchimento incorreto.
+- Redimensionamento e otimização do banco de dados para garantir melhor desempenho e eficiência.
+
+# Utilização do XAMPP no Projeto
+
+No projeto "ProjetoFinalizacao-SENAI" e tambem neste projeto, utilizei o XAMPP como uma solução de desenvolvimento integrada, que combina Apache, MySQL, PHP e Perl. O XAMPP oferece um ambiente local completo e fácil de configurar, permitindo a criação e gerenciamento do banco de dados de forma eficiente. As principais razões para a escolha do XAMPP foram:
+
+- **Ambiente completo e local:** O XAMPP oferece todos os recursos necessários para rodar o servidor Apache e o MySQL localmente, facilitando o desenvolvimento e testes antes de qualquer implantação.
+- **MySQL (MariaDB):** Utilizei o MySQL (MariaDB) para gerenciar o banco de dados do projeto. Ele oferece um desempenho sólido e é amplamente utilizado, o que garante estabilidade e escalabilidade.
+- **Facilidade de administração:** Com o phpMyAdmin integrado ao XAMPP, a administração do banco de dados ficou muito mais simples, permitindo a criação e gerenciamento de tabelas, consultas e usuários com uma interface gráfica.
+- **Suporte a múltiplos projetos:** O XAMPP permite gerenciar múltiplos projetos simultaneamente, cada um com seu próprio banco de dados e configurações.
+- 
+Essa abordagem proporcionou maior controle e flexibilidade durante o desenvolvimento, garantindo que o sistema fosse robusto e escalável para futuras melhorias.
+
 # Sistema CRUD para Franquia de Lojas
 
 Este projeto é um sistema CRUD (Create, Read, Update, Delete) desenvolvido em **Java** com **JavaFX**, destinado à gestão de uma franquia de lojas. Ele está integrado a um banco de dados para o armazenamento das informações, permitindo o gerenciamento completo de usuários, produtos e vendas.
